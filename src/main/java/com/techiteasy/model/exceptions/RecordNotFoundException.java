@@ -1,4 +1,4 @@
-package com.techiteasy.controller.exceptions;
+package com.techiteasy.model.exceptions;
 
 public class RecordNotFoundException extends RuntimeException {
     public RecordNotFoundException() {

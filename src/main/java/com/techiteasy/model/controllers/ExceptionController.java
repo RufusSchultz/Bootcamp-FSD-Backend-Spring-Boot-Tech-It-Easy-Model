@@ -1,7 +1,7 @@
-package com.techiteasy.controller.controllers;
+package com.techiteasy.model.controllers;
 
-import com.techiteasy.controller.exceptions.ProductNameTooLongException;
-import com.techiteasy.controller.exceptions.RecordNotFoundException;
+import com.techiteasy.model.exceptions.ProductNameTooLongException;
+import com.techiteasy.model.exceptions.RecordNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

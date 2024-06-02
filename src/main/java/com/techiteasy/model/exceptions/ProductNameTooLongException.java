@@ -1,4 +1,4 @@
-package com.techiteasy.controller.exceptions;
+package com.techiteasy.model.exceptions;
 
 public class ProductNameTooLongException extends RuntimeException {
     public ProductNameTooLongException() {
